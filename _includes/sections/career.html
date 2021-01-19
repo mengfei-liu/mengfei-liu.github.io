@@ -17,13 +17,20 @@
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
                         <!--<p><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span></p> -->
-                        <p><span data-i18n="career.{{ career.desc.i18n }}">
+                        <!-- <p><span data-i18n="career.{{ career.desc.i18n }}">
                         <ul>
                         <li>{{ career.desc.detail1 }}</li>
                         <li>{{ career.desc.detail2 }}</li>
                         <li>{{ career.desc.detail3 }}</li>
                         <li>{{ career.desc.detail4 }}</li>
-                        </ul></span></p>
+                        </ul></span></p> -->
+                        <p><span data-i18n="career.{{ career.desc.i18n }}">
+                            <p>{{ career.desc.detail1 }}</p>
+                            <p>{{ career.desc.detail2 }}</p>
+                            <p>{{ career.desc.detail3 }}</p>
+                            <p>{{ career.desc.detail4 }}</p>
+                            </span>
+                        </p>
                         <span class="vertical-date"><span data-i18n="career.{{ career.date.i18n }}"> {{ career.date.detail }} </span>
                         <br/> <span data-i18n="career.{{ career.location.i18n}}">{{ career.location.detail }} </span>
                         <br/> <small><span data-i18n="career.{{ career.job.i18n }}">{{ career.job.detail }}</span></small> </span>
