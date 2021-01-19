@@ -21,14 +21,14 @@
 - name:
     detail: Chiefly
     i18n: company_a
+    
   desc:
-    detail: "● Enabled automated ansform jobs on AWS."
+    detail1: 'Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.'
+    detail2: 'Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances.'
+    detail3: 'Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS.'
+    detail4: 
     i18n: company_a_desc
-  desc:
-    detail1: 'Detail1'
-    detail2: 'Detail2'
-    detail3: 'Detail3'
-    i18n: company_a_desc
+
   date:
     detail: Nov. 2020
     i18n: company_a_date
@@ -43,14 +43,11 @@
     detail: Aposys Technologies Inc.
     i18n: company_b
   desc:
-    detail: "● Developed a working laser measurement prototype device by programmed the individual components (laser, encoder, accelerator, etc.) and integrated into an embedded system.
-    
-    ● Improved the usability of the embedded system by designed and developed the touchscreen UI (C++ / QML) running on a Linux system.
-    
-    ● Increased the measurement accuracy from centimeter level to millimeter level by calibrated the system constantly, adjusted the code and performed field test
-    
-    ● Work with hardware engineer to designed and implemented the interface between hardware and software."
-    i18n: company_b_desc
+    detail1: 'Developed a working laser measurement prototype device by programmed the individual components (laser, encoder, accelerator, etc.) and integrated into an embedded system.'
+    detail2: 'Improved the usability of the embedded system by designed and developed the touchscreen UI (C++ / QML) running on a Linux system.'
+    detail3: 'Increased the measurement accuracy from centimeter level to millimeter level by calibrated the system constantly, adjusted the code and performed field test.'
+    detail4: 'Work with hardware engineer to designed and implemented the interface between hardware and software.'
+    i18n: company_a_desc
   date:
     detail: JAN 2016 – JAN 2020
     i18n: company_b_date
@@ -59,5 +56,27 @@
     i18n: company_b_loc
   job:
     detail: Software Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+
+# Aposys Technologies
+- name:
+    detail: EA Industries Limited
+    i18n: company_b
+  desc:
+    detail1: 'Following direction while working with a team and maintaining a positive and respectful workplace.'
+    detail2: 'Diagnose, fix and refurbish mobile phones and computers'
+    detail3: 'Conducts complex quality inspection of own or other’s work to ensure workmanship standards are met.'
+    detail4: ''
+    i18n: company_a_desc
+  date:
+    detail: DEC 2014 – DEC 2015
+    i18n: company_b_date
+  location:
+    detail: Markham, Ontario, Canada
+    i18n: company_b_loc
+  job:
+    detail: Electronics Technician
     i18n: company_b_job
   icon: fa-plus-square
