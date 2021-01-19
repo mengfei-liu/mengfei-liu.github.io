@@ -26,11 +26,7 @@
     i18n: company_a_desc
   desc:
     detail1: 'Detail1'
-    i18n: company_a_desc
-  desc:
     detail2: 'Detail2'
-    i18n: company_a_desc
-  desc:
     detail3: 'Detail3'
     i18n: company_a_desc
   date:
