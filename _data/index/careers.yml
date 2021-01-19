@@ -23,15 +23,20 @@
     i18n: company_a
     
   desc:
-    detail1: 'Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.'
-    detail2: 'Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances.'
-    detail3: 'Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS.'
-    detail4: 
+    detail1: "Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions."
+    detail2: "Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances."
+    detail3: "Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS."
+    detail4: ""
     i18n: company_a_desc
 
   date:
     detail: Nov. 2020
     i18n: company_a_date
+
+  location:
+    detail: Mississauga, Ontario, Canada
+    i18n: company_b_loc
+    
   job:
     detail: Machine Learning Engineer (Apprenticeship)
     i18n: company_a_job
