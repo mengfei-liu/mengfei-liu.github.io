@@ -86,7 +86,8 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-  # National Radio Spectrum Management Institute
+
+# National Radio Spectrum Management Institute
 - name:
     detail: National Radio Spectrum Management Institute
     i18n: company_b
@@ -107,7 +108,8 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-  - name:
+# National Radio Spectrum Management Institute
+- name:
     detail: National Radio Spectrum Management Institute
     i18n: company_b
   desc:
