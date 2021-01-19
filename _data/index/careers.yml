@@ -28,10 +28,10 @@
     detail1: 'Detail1'
     i18n: company_a_desc
   desc:
-    detail1: 'Detail2'
+    detail2: 'Detail2'
     i18n: company_a_desc
   desc:
-    detail1: 'Detail3'
+    detail3: 'Detail3'
     i18n: company_a_desc
   date:
     detail: Nov. 2020
