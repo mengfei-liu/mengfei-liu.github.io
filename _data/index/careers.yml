@@ -1,16 +1,36 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+# Company Template
+# - name:
+#     detail: Company A
+#     i18n: company_a
+#   desc:
+#     detail: I worked at Company A ...
+#     i18n: company_a_desc
+#   date:
+#     detail: Apr. 2016
+#     i18n: company_a_date
+#   job:
+#     detail: CTO
+#     i18n: company_a_job
+#   icon: fa-plus-square
+#   present: true
+
+# Chiefly
 - name:
-    detail: Company A
+    detail: Chiefly
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.
+    Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances.
+    Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: NoV. 2020
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Machine Learning Engineer (Apprenticeship)
     i18n: company_a_job
   icon: fa-plus-square
   present: true
