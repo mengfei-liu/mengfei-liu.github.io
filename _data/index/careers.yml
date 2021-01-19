@@ -48,10 +48,10 @@
     detail: Aposys Technologies Inc.
     i18n: company_b
   desc:
-    detail1: 'Developed a working laser measurement prototype device by programmed the individual components (laser, encoder, accelerator, etc.) and integrated into an embedded system.'
-    detail2: 'Improved the usability of the embedded system by designed and developed the touchscreen UI (C++ / QML) running on a Linux system.'
-    detail3: 'Increased the measurement accuracy from centimeter level to millimeter level by calibrated the system constantly, adjusted the code and performed field test.'
-    detail4: 'Work with hardware engineer to designed and implemented the interface between hardware and software.'
+    detail1: "Developed a working laser measurement prototype device by programmed the individual components (laser, encoder, accelerator, etc.) and integrated into an embedded system."
+    detail2: "Improved the usability of the embedded system by designed and developed the touchscreen UI (C++ / QML) running on a Linux system."
+    detail3: "Increased the measurement accuracy from centimeter level to millimeter level by calibrated the system constantly, adjusted the code and performed field test."
+    detail4: "Work with hardware engineer to designed and implemented the interface between hardware and software."
     i18n: company_a_desc
   date:
     detail: JAN 2016 – JAN 2020
@@ -70,10 +70,10 @@
     detail: EA Industries Limited
     i18n: company_b
   desc:
-    detail1: 'Following direction while working with a team and maintaining a positive and respectful workplace.'
-    detail2: 'Diagnose, fix and refurbish mobile phones and computers'
-    detail3: 'Conducts complex quality inspection of own or other’s work to ensure workmanship standards are met.'
-    detail4: ''
+    detail1: "Following direction while working with a team and maintaining a positive and respectful workplace."
+    detail2: "Diagnose, fix and refurbish mobile phones and computers"
+    detail3: "Conducts complex quality inspection of own or other’s work to ensure workmanship standards are met."
+    detail4: ""
     i18n: company_a_desc
   date:
     detail: DEC 2014 – DEC 2015
