@@ -65,13 +65,13 @@
   icon: fa-plus-square
 
 
-# Aposys Technologies
+# EA Industries Limited
 - name:
     detail: EA Industries Limited
     i18n: company_b
   desc:
     detail1: "Following direction while working with a team and maintaining a positive and respectful workplace."
-    detail2: "Diagnose, fix and refurbish mobile phones and computers"
+    detail2: "Diagnose, fix and refurbish mobile phones and computers."
     detail3: "Conducts complex quality inspection of own or other’s work to ensure workmanship standards are met."
     detail4: ""
     i18n: company_a_desc
@@ -83,5 +83,46 @@
     i18n: company_b_loc
   job:
     detail: Electronics Technician
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  # National Radio Spectrum Management Institute
+- name:
+    detail: National Radio Spectrum Management Institute
+    i18n: company_b
+  desc:
+    detail1: "Assisted in the development of work plans and project organization."
+    detail2: "Developed an application software on windows platform (MFC) to control the radio spectrum receiver, retrieve and analyze the radio data."
+    detail3: "Performed testing, maintenance, and debug of code."
+    detail4: 
+    i18n: company_a_desc
+  date:
+    detail: JAN 2010 - 2013
+    i18n: company_b_date
+  location:
+    detail: Xi’an, Shaanxi, China
+    i18n: company_b_loc
+  job:
+    detail: Software Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+  - name:
+    detail: National Radio Spectrum Management Institute
+    i18n: company_b
+  desc:
+    detail1: "Performed basic desktop and laptop configuration and troubleshooting."
+    detail2: "Conducted routine preventive maintenance on hardware and software."
+    detail3: 
+    detail4: 
+    i18n: company_a_desc
+  date:
+    detail: AUG 2008 - 2010
+    i18n: company_b_date
+  location:
+    detail: Xi’an, Shaanxi, China
+    i18n: company_b_loc
+  job:
+    detail: IT Support
     i18n: company_b_job
   icon: fa-plus-square
