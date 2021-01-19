@@ -22,9 +22,11 @@
     detail: Chiefly
     i18n: company_a
   desc:
-    detail: "Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.
-    Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances.
-    Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS."
+    detail: "● Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.
+    
+    ● Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances.
+    
+    ● Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS."
     i18n: company_a_desc
   date:
     detail: NoV. 2020
@@ -35,16 +37,26 @@
   icon: fa-plus-square
   present: true
 
+# Aposys Technologies
 - name:
-    detail: Company B
+    detail: Aposys Technologies Inc.
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: "● Developed a working laser measurement prototype device by programmed the individual components (laser, encoder, accelerator, etc.) and integrated into an embedded system.
+    
+    ● Improved the usability of the embedded system by designed and developed the touchscreen UI (C++ / QML) running on a Linux system.
+    
+    ● Increased the measurement accuracy from centimeter level to millimeter level by calibrated the system constantly, adjusted the code and performed field test
+    
+    ● Work with hardware engineer to designed and implemented the interface between hardware and software."
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: JAN 2016 – JAN 2020
     i18n: company_b_date
+  location:
+    detail: Mississauga, Ontario, Canada
+    i18n: company_b_loc
   job:
-    detail: Full Stack Developer
+    detail: Software Developer
     i18n: company_b_job
   icon: fa-plus-square
