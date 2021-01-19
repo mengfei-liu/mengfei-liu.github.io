@@ -22,9 +22,9 @@
     detail: Chiefly
     i18n: company_a
   desc:
-    detail: Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.
+    detail: "Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions.
     Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances.
-    Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS.
+    Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS."
     i18n: company_a_desc
   date:
     detail: NoV. 2020
