@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Driver Behavior Detection
+  i18n: Driver Behavior Detection
+  gh_user: mengfei-liu
+  repo: Capstone
+  img: /static/assets/img/landing/deiver_behavior.jpg
+  desc: In this project, I structured a CNN framework using machine learning and transfer learning techniques to process image features. The object of this project is to build a machine learning model that can recognize 5 different behavior categories. When the distracted driving is happening, the model is able to remind the driver to prevent traffic accidents.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: ApoStron UI
+  i18n: ApoStron UI
+  gh_user: mengfei-liu
+  repo: ApoStron_GUI
+  img: /static/assets/img/landing/ApoStron1.jpg
+  desc: This UI is coded in C++ and QML, running on the Linux, interact with embedded devices via touch screen. The drillers enter azimuth angle and/or distance from tablet, the embedded system device reads inputs, scans reference points, calculates the new placement, and guides the drillers/miners to point the drill at the new location. The results will be stored in the device and available for download for future reference or performance analysis. The aligner is designed to withstand day-to-day use in harsh underground mining environments.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+# - name: Google
+#   i18n: google
+#   url: https://google.com
+#   img: /static/assets/img/landing/google.png
+#   desc: This is another project.
