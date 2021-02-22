@@ -2,8 +2,11 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: static/assets/img/landing/header_one.jpg
-  title: first banner image
+- src: static/assets/img/banner/cellphone.png
+  title: 
 
-- src: static/assets/img/landing/header_two.jpg
-  title: second banner image
+- src: static/assets/img/banner/deiver_behavior.jpg
+  title:
+
+- src: static/assets/img/banner/header_ApoStron1.jpg
+  title:
