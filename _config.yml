@@ -15,7 +15,7 @@ author:  # change following line to your infomation.
   name: GitHub  # Be used at blog posts' author.
   first_name: Mengfei  # Be used at index page about me section.
   last_name: Liu  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/avatar_mengfei.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: mengfei-liu  # Leave blank if you don't have now
   linkedin_id: mengfei-liu # Leave blank if you don't have now
   facebook_username: #jiakunnj  # Leave blank if you don't have now
