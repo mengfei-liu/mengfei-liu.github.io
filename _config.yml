@@ -26,13 +26,9 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: icon-python
     - name: icon-mysql
+  skill_icon2:
     - name: icon-cplusplus
     - name: icon-script
-  skill_icon2:
-    - name: icon-raspberrypi
-    - name: icon-aws
-    - name: icon-hadoop
-    - name: icon-docker
   # desc: Introduce myself will be here.  # Describe yourself.
   desc: Hello, I am Mengfei Liu, I recently finished the BrainStation Data Science Diploma (Sep 2020). After several years as a embedded system UI Software Developer I found myself drawn to the data collected from the software I used. I enjoy finding the patterns and insights hidden behind the data to positively impact the lives of others.
 # comment
