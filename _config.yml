@@ -30,9 +30,7 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: icon-apache
   # desc: Introduce myself will be here.  # Describe yourself.
-  desc: Hello, I am Mengfei Liu, I recently finished the BrainStation Data Science Diploma (Sep 2020). 
-  
-  After several years as a UI Software Developer I found myself drawn to the data collected from the software I used. I enjoy finding the patterns and insights hidden behind the data to positively impact the lives of others.
+  desc: Hello, I am Mengfei Liu, I recently finished the BrainStation Data Science Diploma (Sep 2020). After several years as a embedded system UI Software Developer I found myself drawn to the data collected from the software I used. I enjoy finding the patterns and insights hidden behind the data to positively impact the lives of others.
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #  name: jalpc
