@@ -3,10 +3,10 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: static/assets/img/banner/cellphone.png
-  title: 
+  title: Driving Behavior Detection
 
 - src: static/assets/img/banner/deiver_behavior.jpg
-  title:
+  title: Driving Behavior Detection
 
 - src: static/assets/img/banner/header_ApoStron1.jpg
-  title:
+  title: ApoStron Prototype
