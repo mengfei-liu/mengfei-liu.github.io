@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Mengfei Liu
+title: Welcome to Mengfei Liu's Personal Page
 description: Mengfei's webpage,use Jekyll and github pages.
 keywords: Mengfei,Mengfei Liu,web,Jekyll,github,gh-pages
 baseurl:  '' #/Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -24,11 +24,15 @@ author:  # change following line to your infomation.
   cv: #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: icon-python
+    - name: icon-mysql
+    - name: icon-cplusplus
+    - name: icon-script
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: icon-raspberrypi
+    - name: icon-aws
+    - name: icon-hadoop
+    - name: icon-docker
   # desc: Introduce myself will be here.  # Describe yourself.
   desc: Hello, I am Mengfei Liu, I recently finished the BrainStation Data Science Diploma (Sep 2020). After several years as a embedded system UI Software Developer I found myself drawn to the data collected from the software I used. I enjoy finding the patterns and insights hidden behind the data to positively impact the lives of others.
 # comment
