@@ -21,7 +21,8 @@ author:  # change following line to your infomation.
   facebook_username: #jiakunnj  # Leave blank if you don't have now
   twitter_username: #jiakun614  # Leave blank if you don't have now
   email: lmf840822@gmail.com  # Leave blank if you don't have now
-  cv: #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://mengfei-liu.github.io/online-resume/ #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-python
