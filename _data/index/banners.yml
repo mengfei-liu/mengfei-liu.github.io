@@ -5,11 +5,11 @@
 - src: landing/1.png
   title: Driving Behavior Detection
 
-- src: landing/2.jpg
-  title: Driving Behavior Detection
+# - src: landing/2.jpg
+#   title: Driving Behavior Detection
 
-- src: landing/3.jpg
-  title: Driving Behavior Detection
+# - src: landing/3.jpg
+#   title: Driving Behavior Detection
 
 - src: landing/4.jpg
   title: ApoStron Prototype
