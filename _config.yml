@@ -2,8 +2,8 @@
 
 # Website settings
 title: Mengfei Liu
-description: Mengfei's webpage,use Jekyll and github pages.
-keywords: Mengfei,Mengfei Liu,web,Jekyll,github,gh-pages
+description: Mengfei's webpage.
+keywords: Mengfei,Mengfei Liu
 baseurl:  '' #/Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://mengfei-liu.github.io
 # url: https://jarrekk.github.io/Jalpc  # url should be 'http://<github_username>.github.io/homepage' as before
