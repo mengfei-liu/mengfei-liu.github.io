@@ -1,5 +1,6 @@
 # index page sections
 # custom following lines to edit your index page
+# navi bar
 - id: about-me
   i18n: nav.about_me
   name: About
@@ -29,7 +30,7 @@
   i18n: nav.blog
   name: Resume
   tpl: blog.html
-  page: https://mengfei-liu.github.io/online-resume/ #blog/
+  page: https://mengfei-liu.github.io/online-resume/ #blog/ # redirect hyperlink to another static page
   css: #testimonials navy-section
 
 # - id: links
