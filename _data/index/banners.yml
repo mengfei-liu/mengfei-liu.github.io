@@ -2,11 +2,14 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/cellphone.png
+- src: landing/1.png
   title: Driving Behavior Detection
 
-- src: landing/deiver_behavior.jpg
+- src: landing/2.jpg
   title: Driving Behavior Detection
 
-- src: landing/header_ApoStron1.jpg
+- src: landing/3.jpg
+  title: Driving Behavior Detection
+
+- src: landing/4.jpg
   title: ApoStron Prototype
