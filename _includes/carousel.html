@@ -14,6 +14,12 @@
                 </div>
             </div>
             <!-- Set background for slide in css -->
+            <!-- <div
+            class="header-back"
+            style="background-image: url({{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }});"
+            title="{{ site.data.index.banners[0].title }}">
+            </div> -->
+            <div class="header-back one"></div>
             <div
             class="header-back"
             style="background-image: url({{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }});"
@@ -24,14 +30,19 @@
         {% for banner in site.data.index.banners offset:1 %}
         <div class="item">
             <div class="container">
+                <!-- <div class="carousel-caption">
+                </div>
+                <div class="carousel-image wow zoomIn"> -->
+                    <!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
+                <!-- </div> -->
                 <div class="carousel-caption">
                 </div>
                 <div class="carousel-image wow zoomIn">
                     <!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
-                </div>
             </div>
             <!-- Set background for slide in css -->
-            <div class="header-back" style="background-image: url({{ '/static/assets/img/'  | prepend: site.baseurl }}{{ banner.src }});" title="{{ banner.title }}"></div>
+            <!-- <div class="header-back" style="background-image: url({{ '/static/assets/img/'  | prepend: site.baseurl }}{{ banner.src }});" title="{{ banner.title }}"></div> -->
+            <div class="header-back" style="background-image: url({{ "/static/assets/img/"  | prepend: site.baseurl }}{{ banner.src }});" title="{{ banner.title }}"></div>
         </div>
         {% endfor %}
 
