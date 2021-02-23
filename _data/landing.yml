@@ -27,7 +27,7 @@
 
 - id: blog
   i18n: nav.blog
-  name: Blog
+  name: Resume
   tpl: blog.html
   page: https://mengfei-liu.github.io/online-resume/ #blog/
   css: testimonials navy-section
