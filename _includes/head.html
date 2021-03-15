@@ -37,4 +37,10 @@
       enable_page_level_ads: true
     });
   </script>
+
+  <!-- 配置Google Analytics -->
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include google-analytics.html %}
+  {% endif %}
+  
 </head>
