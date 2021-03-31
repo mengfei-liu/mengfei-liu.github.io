@@ -34,7 +34,7 @@
     i18n: company_a_date
 
   location:
-    detail: Mississauga, Ontario, Canada
+    detail: Toronto, Ontario, Canada
     i18n: company_b_loc
     
   job:
