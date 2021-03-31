@@ -15,8 +15,12 @@
   img: /static/assets/img/landing/ApoStron1.jpg
   desc: This UI is coded in C++ and QML, running on the Linux, interact with embedded devices via touch screen. The drillers enter azimuth angle and/or distance from tablet, the embedded system device reads inputs, scans reference points, calculates the new placement, and guides the drillers/miners to point the drill at the new location. The results will be stored in the device and available for download for future reference or performance analysis. The aligner is designed to withstand day-to-day use in harsh underground mining environments.
 
-# - name: Google
-#   i18n: google
-#   url: https://google.com
-#   img: /static/assets/img/landing/google.png
-#   desc: This is another project.
+- name: BIXI Montréal, bike-sharing system (Data Analysis and Data Visualization)
+  i18n: BIXI Montréal, bike-sharing system (Data Analysis and Data Visualization)
+  gh_user: mengfei-liu
+  repo: Bixi-Montreal-Data-Analysis
+  img: /static/assets/img/landing/bixi-montreal-main.jpg
+  desc: This project were delivered as assignment for BrainStation's Data Science Diploma program and cannot be shared publicly. Only a few visualization charts are displayed for demo purpose.
+  + Data Analysis of the real-world data using SQL queries on MySQL workbench.
+  + Data Visualization and Dashboards on Tableau with key insights into revenue and business growth.
+
