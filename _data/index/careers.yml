@@ -30,7 +30,7 @@
     i18n: company_a_desc
 
   date:
-    detail: Nov. 2020
+    detail: Nov 2020 - Mar 2021
     i18n: company_a_date
 
   location:
@@ -101,7 +101,7 @@
     detail: JAN 2010 - 2013
     i18n: company_b_date
   location:
-    detail: Xi’an, Shaanxi, China
+    detail: Xi'an, Shaanxi, China
     i18n: company_b_loc
   job:
     detail: Software Developer
@@ -122,7 +122,7 @@
     detail: AUG 2008 - 2010
     i18n: company_b_date
   location:
-    detail: Xi’an, Shaanxi, China
+    detail: Xi'an, Shaanxi, China
     i18n: company_b_loc
   job:
     detail: IT Support
