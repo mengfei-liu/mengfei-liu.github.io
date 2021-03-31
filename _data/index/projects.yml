@@ -20,5 +20,4 @@
   gh_user: mengfei-liu
   repo: Bixi-Montreal-Data-Analysis
   img: /static/assets/img/landing/bixi-montreal-main.jpg
-  desc: This project were delivered as assignment for BrainStation's Data Science Diploma program and cannot be shared publicly. Only a few visualization charts are displayed for demo purpose. Data Analysis of the real-world data using SQL queries on MySQL workbench. Data Visualization and Dashboards on Tableau with key insights into revenue and business growth.
-
+  desc: This project were delivered as assignment for BrainStation's Data Science Diploma program and cannot be shared publicly. Only a few visualization charts are displayed for demo purpose.
