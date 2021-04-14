@@ -23,14 +23,14 @@
     i18n: company_a
     
   desc:
-    detail1: "Enabled automated engagement analysis on leadership coaching session by developing a computer vision (OpenCV and dlib) model to score how engaged users were in recorded video sessions."
-    detail2: "Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run sagemaker instances."
-    detail3: "Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS."
+    detail1: "• Enabled automated engagement analysis on leadership coaching sessions by developing a computer vision (OpenCV and Dlib) model to score how engaged users were in recorded video sessions."
+    detail2: "• Migrated the process onto the cloud service (AWS), using lambda to trigger data sync, run Sagemaker instances."
+    detail3: "• Improved inference run-times by 6X by virtualizing the python environment using Docker and segmenting the workflow to allow parallel processing for each model with Batch Transform jobs on AWS."
     detail4: ""
     i18n: company_a_desc
 
   date:
-    detail: Nov 2020 - Mar 2021
+    detail: Nov. 2020 - Mar. 2021
     i18n: company_a_date
 
   location:
@@ -48,13 +48,13 @@
     detail: Aposys Technologies Inc.
     i18n: company_b
   desc:
-    detail1: "Developed a working laser measurement prototype device by programmed the individual components (laser, encoder, accelerator, etc.) and integrated into an embedded system."
-    detail2: "Improved the usability of the embedded system by designed and developed the touchscreen UI (C++ / QML) running on a Linux system."
-    detail3: "Increased the measurement accuracy from centimeter level to millimeter level by calibrated the system constantly, adjusted the code and performed field test."
-    detail4: "Work with hardware engineer to designed and implemented the interface between hardware and software."
+    detail1: "• Developed a working laser measurement prototype device by programming the individual components (laser, encoder, accelerator, etc.) and integrating into an embedded system."
+    detail2: "• Improved the usability of the embedded system by designing and developing the touchscreen UI (C++ / QML) running on a Linux system."
+    detail3: "• Increased the measurement accuracy from centimeter level to millimeter level by calibrating the system constantly, adjusting the code and performing field tests."
+    detail4: "• Worked with the hardware engineer to design and implement the interface between hardware and software."
     i18n: company_a_desc
   date:
-    detail: JAN 2016 – JAN 2020
+    detail: JAN. 2016 – JAN. 2020
     i18n: company_b_date
   location:
     detail: Mississauga, Ontario, Canada
@@ -70,9 +70,9 @@
     detail: EA Industries Limited
     i18n: company_b
   desc:
-    detail1: "Following direction while working with a team and maintaining a positive and respectful workplace."
-    detail2: "Diagnose, fix and refurbish mobile phones and computers."
-    detail3: "Conducts complex quality inspection of own or other’s work to ensure workmanship standards are met."
+    detail1: "• Followed direction while working with a team and maintained a positive and respectful workplace."
+    detail2: "• Diagnosed, fixed and refurbished mobile phones and computers."
+    detail3: ""
     detail4: ""
     i18n: company_a_desc
   date:
@@ -92,9 +92,9 @@
     detail: National Radio Spectrum Management Institute
     i18n: company_b
   desc:
-    detail1: "Assisted in the development of work plans and project organization."
-    detail2: "Developed an application software on windows platform (MFC) to control the radio spectrum receiver, retrieve and analyze the radio data."
-    detail3: "Performed testing, maintenance, and debug of code."
+    detail1: "• Assisted in the development of work plans and project organization."
+    detail2: "• Developed an application software on windows platform (MFC) to control the radio spectrum receiver, retrieve and analyze the radio data."
+    detail3: "• Performed testing, maintenance, and debug of code."
     detail4: ""
     i18n: company_a_desc
   date:
@@ -113,9 +113,9 @@
     detail: National Radio Spectrum Management Institute
     i18n: company_b
   desc:
-    detail1: "Performed basic desktop and laptop configuration and troubleshooting."
-    detail2: "Conducted routine preventive maintenance on hardware and software."
-    detail3: 
+    detail1: "• Installed and maintained company’s computer systems and network."
+    detail2: "• Performed upgrades and installed updates."
+    detail3: "• Completed troubleshooting and repair when computers had problems."
     detail4: 
     i18n: company_a_desc
   date:
